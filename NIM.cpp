@@ -54,6 +54,7 @@ int main( )
 		}
 	}
 	while ( val != 3 );
+	cout<<"Fanney Hrund";
 
 	return 0;
 }
