@@ -219,6 +219,7 @@ void tolva( int* hruga )
 		getchar( );
 	}
 	cout << endl;
+	cout << "Fanney";
 }
 
 int samtals( int* hruga )
