@@ -37,6 +37,7 @@ int main( )
 		cout << endl << endl << endl;
 		cout << "                ADALVALMYND " << endl << endl;
 		cout << "                      1. Spila NIM" << endl;
+		cout << "Svava";
 		cout << "                      2. Birta reglurnar i NIM" << endl;
 		cout << "                      3. Haetta " << endl << endl;
 		cout << "                      Veldu 1, 2 eda 3:" << endl << endl;
@@ -220,6 +221,7 @@ void tolva( int* hruga )
 	}
 	cout << endl;
 	cout << "Fanney";
+	cout << "Svava";
 }
 
 int samtals( int* hruga )
